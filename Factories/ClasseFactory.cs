@@ -78,6 +78,7 @@ public static class ClasseFactory
         Console.WriteLine();
     }
 
+    
     private static int ObterModificadorAtributoPrincipal(ClassePersonagem classe, Atributos atributos)
     {
         return classe.AtributoPrincipal.ToLower() switch
