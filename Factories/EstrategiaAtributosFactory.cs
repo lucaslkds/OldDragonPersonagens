@@ -22,4 +22,5 @@ public static class EstrategiaAtributosFactory
             _ => throw new ArgumentException("Opção inválida. Escolha um método existente no menu.")
         };
     }
+    
 }
