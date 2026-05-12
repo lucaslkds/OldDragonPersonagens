@@ -135,6 +135,7 @@ public static class PersonagemArquivoService
 
         Console.WriteLine("Você será levado de volta ao menu inicial.");
         EntradaService.AguardarEnter();
+   
     }
 
     private static List<FileInfo> ListarPersonagensSalvos()
