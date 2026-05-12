@@ -67,4 +67,5 @@ public class Personagem
         string sinal = modificador >= 0 ? "+" : "";
         return $"{nome}: {valor} | Modificador: {sinal}{modificador}";
     }
+
 }
