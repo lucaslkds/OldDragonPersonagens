@@ -30,4 +30,7 @@ public class DadoService
         // Somamos as posições 1, 2 e 3, descartando o menor dado.
         return dados[1] + dados[2] + dados[3];
     }
+
 }
+
+
