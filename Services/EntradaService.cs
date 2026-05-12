@@ -56,5 +56,6 @@ public static class EntradaService
         Console.WriteLine();
         Console.Write(mensagem);
         Console.ReadLine();
+        
     }
 }
