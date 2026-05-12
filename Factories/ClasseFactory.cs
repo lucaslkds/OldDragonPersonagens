@@ -74,7 +74,7 @@ public static class ClasseFactory
         Console.WriteLine($"{numero,2} - {classe.Nome}");
         Console.WriteLine($"     Resumo: {classe.Descricao}");
         Console.WriteLine($"     PV inicial: {classe.PvInicial} | Dado de vida: {classe.DadoDeVida}");
-        Console.WriteLine($"     Atributo principal sugerido: {classe.AtributoPrincipal} | Seu modificador atual: {sinal}{modificadorAtributoPrincipal}");
+        Console.WriteLine($"     Atributo principal sugerido: {classe.AtributoPrincipal} | Modificador do atributo principal: {sinal}{modificadorAtributoPrincipal}");
         Console.WriteLine();
     }
 
