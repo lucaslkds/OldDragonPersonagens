@@ -14,4 +14,5 @@ public class Barbaro : ClassePersonagem
         "Combina com personagens resistentes e agressivos.",
         "Descrição focada em vigor físico e sobrevivência."
     };
+
 }
