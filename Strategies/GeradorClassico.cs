@@ -32,4 +32,5 @@ public class GeradorClassico : IEstrategiaAtributos
 
         return atributos;
     }
+    
 }
